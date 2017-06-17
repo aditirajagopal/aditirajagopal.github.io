@@ -22,6 +22,9 @@ class SiteNavi extends React.Component {
               <li className={location.pathname === prefixLink('/Journal/') ? 'nav-item active' : 'nav-item'}>
                 <Link to={prefixLink('/journal/')} className="nav-link">journal</Link>
               </li>
+              <li className={location.pathname === prefixLink('/Portfolio/') ? 'nav-item active' : 'nav-item'}>
+                <Link to={prefixLink('/portfolio/')} className="nav-link">portfolio</Link>
+              </li>
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   elsewhere on the internet

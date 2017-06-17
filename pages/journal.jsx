@@ -6,6 +6,9 @@ import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
 import access from 'safe-access'
 import { config } from 'config'
+import SideBar from '../components/SideBar'
+
+import 'static/scss/journal.scss'
 
 class SiteIndex extends React.Component {
 
@@ -72,11 +75,12 @@ class SiteIndex extends React.Component {
 
         return (
             <DocumentTitle title={ config.siteTitle }>
-              <div className='container'>
-                <div className='articles col-md-12'>
+              <div className='content jcontainer'>
+                    <SideBar/>
+                    <div>
                   { pageLinks }
+                    </div>
                 </div>
-              </div>
             </DocumentTitle>
         )
     }

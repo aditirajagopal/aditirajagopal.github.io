@@ -15,7 +15,7 @@ import SiteNavi from '../components/SiteNavi'
 class Template extends React.Component {
     render() {
         const {location, children} = this.props;
-        if(location.pathname === '/') {
+        if((location.pathname === '/') || (location.pathname === '/journal/')){
             return (
                 <div className="teal-bg">
                   { children }

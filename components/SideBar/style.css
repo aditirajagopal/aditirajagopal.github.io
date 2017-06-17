@@ -1,0 +1,56 @@
+.sidebar-header {
+  color: #fff;
+  margin-top: 0;
+  font-size: 3.5rem;
+}
+
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
+.sidebar {
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+
+.sidebar-content {
+  padding: 2rem 1rem;
+  text-align: left;
+}
+
+.sidebar-content p {
+  font-size: 1.25em;
+}
+
+@media (min-width: 48em) {
+  .sidebar-content {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    left: 1rem;
+  }
+}
+
+.sidebar-nav {
+  margin-bottom: 1rem;
+  display: block;
+  font-weight: bold;
+  color: #fff;
+  list-style: none;
+  line-height: 1.75;
+  text-decoration: none;
+  padding-left: 0;
+  font-size: 1.25em;
+}
+
+.sidebar-nav a {
+  color: #fff;
+  text-decoration: none;
+}

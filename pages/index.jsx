@@ -118,7 +118,7 @@ class Index extends React.Component {
                       <Link to='/about/'>About</Link>
                     </li>
                     <li className="home_nav">
-                      <Link to={prefixLink('/articles/')}>Journal</Link>
+                      <Link to={prefixLink('/journal/')}>Journal</Link>
                     </li>
                     <li className="home_nav">
                       <Link to='/portfolio/'>Portfolio</Link>
