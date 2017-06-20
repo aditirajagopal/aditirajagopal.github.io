@@ -10,14 +10,23 @@ import 'static/scss/postcard.scss'
 import 'highlight.js'
 import { config } from 'config'
 import SiteNavi from '../components/SiteNavi'
+import JournalNavi from '../components/JournalNavi'
 
 
 class Template extends React.Component {
     render() {
         const {location, children} = this.props;
-        if((location.pathname === '/') || (location.pathname === '/journal/')){
+        if(location.pathname === '/'){
             return (
                 <div className="teal-bg">
+                  { children }
+                </div>
+            );
+        }
+        if(location.pathname === '/about/'){
+            return (
+                <div>
+                  <SiteNavi title={ config.siteTitle } {...this.props}/>
                   { children }
                 </div>
             );
@@ -25,7 +34,7 @@ class Template extends React.Component {
         // if (location.pathname !== prefixLink('/')) {
             return (
                 <div>
-                  <SiteNavi title={ config.siteTitle } {...this.props}/>
+                  <JournalNavi title={ config.siteTitle } {...this.props}/>
                   { children }
                 </div>
             );

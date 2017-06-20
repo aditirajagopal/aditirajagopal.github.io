@@ -2,7 +2,7 @@
 title: "Things we Learned in Nashville"
 date: "2015-10-28T15:39:55-04:00"
 layout: post
-path: "/we15-nashville/"
+path: "/journal/we15-nashville/"
 category: "journal SWE"
 description: "This past week, we (Aditi & Kendall) attended the Society of Women Engineers Annual Conference (we15) in Nashville Tennessee. This is what we learned."
 ---
@@ -30,11 +30,6 @@ Checkout some more highlights via our compiled Storify:
 
 <div class="storify"><iframe src="//storify.com/Aditi_Rajagopal/we15-nashville/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Aditi_Rajagopal/we15-nashville.js?header=false&border=false"></script><noscript>[<a href="//storify.com/Aditi_Rajagopal/we15-nashville" target="_blank">View the story "#we15 - Nashville TN" on Storify</a>]</noscript></div>
 =======
-
-#### Check out our Storify! 
-## Hope to see y'all at we16 in Philadelphia
-
-<div class="storify"><iframe src="//storify.com/Aditi_Rajagopal/we15-nashville/embed?border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Aditi_Rajagopal/we15-nashville.js?border=false"></script><noscript>[<a href="//storify.com/Aditi_Rajagopal/we15-nashville" target="_blank">View the story "#we15 - Nashville TN" on Storify</a>]</noscript></div>
 
 <figure class="floatRight">
 	<img style="height: 310px;" src="./Gutenberg.jpg" alt="Gutenberg">

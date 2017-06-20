@@ -2,7 +2,7 @@
 title: New Year, Life Update, Check-In
 date: "2017-01-01T23:46:37.121Z"
 layout: post
-path: "/my-second-post/"
+path: "/journal/2016-in-review/"
 category: "2016 AnnualReview"
 description: "Well, we made it. 365 rotations and 1 revolution later, here we are. My twitter and medium feeds are full of ‘Year in Review’ and ‘2017 Resolutions’ posts, and also quite a few ‘Don’t do Resolutions! Do this’ type posts. Before sitting down to write this post, I decided to review my post from last year — “2015 in Review.” Reading through it again, it feels a bit forced and disjointed..."
 ---

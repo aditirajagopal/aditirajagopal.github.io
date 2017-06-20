@@ -1,25 +1,33 @@
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    1em;
+  padding-bottom: 3em;
 }
 
 .jcontainer {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 72rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 72em;
+    margin-left: 14em;
+    margin-right: 2em;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    max-width: 72em;
+    margin-left: 18em;
+    margin-right: 2em;
+  }
+}
+
+@media (min-width: 72em) {
+  .content {
+    margin-left: 25em;
+    margin-right: 2em;
   }
 }
 
@@ -32,4 +40,3 @@
     padding-right: 0;    
   }
 }
-

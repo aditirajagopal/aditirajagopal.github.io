@@ -1,0 +1,42 @@
+.j_container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: inherit;
+}
+
+@media (min-width: 48em) {
+  .jheader {
+    max-width: 72rem;
+    margin-left: 12rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .jheader {
+    margin-left: 17rem;
+    margin-right: 4rem;
+  }
+}
+
+@media (min-width: 72em) {
+  .jheader {
+    margin-left: 24rem;
+    margin-right: 4rem;
+  }
+}
+
+@media (max-width: 32em) {
+  .jheader {
+    padding-top: 0;
+  }
+  .j_container {
+    padding-left: 0;
+    padding-right: 0;
+    display: inline;
+  }
+}
+
+.nav-item {
+  width: auto;
+}

@@ -2,7 +2,7 @@
 title: 2015 in Review
 date: "2016-01-01T22:40:32.169Z"
 layout: post
-path: "/2015-in-review/"
+path: "/journal/2015-in-review/"
 category: "2015 AnnualReview"
 description: "An amalgamation of things you might find interesting and/or semi-useful"
 ---

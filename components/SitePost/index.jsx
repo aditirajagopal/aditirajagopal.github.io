@@ -7,6 +7,7 @@ import access from 'safe-access'
 import { config } from 'config'
 import ReadNext from '../ReadNext'
 import './style.css'
+import SideBar from '../SideBar'
 
 class SitePost extends React.Component {
     description(body) {
@@ -26,8 +27,9 @@ class SitePost extends React.Component {
             )
         }
         return (
-            <div className='container'>
-              <div className='articles col-md-12'>
+            <div className='content jcontainer'>
+              <SideBar title={post.title}/>
+              <div>
                 <div className='article-wrap'>
                   <div className="page-header">
                     <h1>{ post.title }</h1>
@@ -41,11 +43,8 @@ class SitePost extends React.Component {
                     <ReadNext post={ post } {...this.props}/>
                     <hr></hr>
                     <p>
-                      { config.siteDescr }
-                      <Link to={ prefixLink("/profile/") }>
                         <br></br>
-                        <strong>{ config.siteAuthor }</strong> on Profile
-                      </Link>
+                        <strong>{ config.siteAuthor }</strong>
                     </p>
                   </div>
                 </div>

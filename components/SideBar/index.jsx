@@ -11,25 +11,11 @@ class Sidebar extends React.Component {
         <div className="sidebar col-md-4">
             <div className="sidebar-content">
                 <h1 className="sidebar-header">
-                    Journal
+                    { this.props.title }
                 </h1>
-                <p class="subtitle">
+                <p className="subtitle">
                 Lists, plot-twists, ideas, updates, and maybe the beginnings of a novel. All by yours truly @aditi_rajagopal
                 </p>
-                <ul className="sidebar-nav">
-                    <li>
-                        <Link to={prefixLink('/')}>Home</Link>
-                    </li>
-                    <li>
-                        <Link to={prefixLink('/about/')}>About</Link>
-                    </li>
-                    <li>
-                        <Link to={prefixLink('/journal/')}>Journal</Link>
-                    </li>
-                    <li>
-                        <Link to={prefixLink('/portfolio/')}>Portfolio</Link>
-                    </li>
-                </ul>
               <p className="copyright">
                 &copy; All rights reserved.
               </p>
@@ -40,7 +26,7 @@ class Sidebar extends React.Component {
 }
 
 Sidebar.propTypes = {
-  location: React.PropTypes.object,
+    title: React.PropTypes.string.isRequired,
 };
 
 export default Sidebar;
