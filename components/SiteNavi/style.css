@@ -1,0 +1,45 @@
+.navContainer {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+@media (min-width: 32em){
+    .navContainer {
+        width: 540px;
+        max-width: 100%;
+        display: inline-flex;
+    }
+}
+
+@media (min-width: 36em){
+    .navContainer {
+        width: 39em;
+        max-width: 100%;
+        display: inline-flex;
+    }
+}
+
+@media (min-width: 48em){
+    .navContainer {
+/*        padding-right: 15px;
+        padding-left: 15px;
+*/        width: 30em;
+        max-width: 100%;
+    display: inherit;
+    }
+}
+
+@media (min-width: 62em){
+    .navContainer {
+        width: 28em;
+        max-width: 100%;
+    display: inherit;
+    }
+}
+
+.nav-link {
+    text-decoration: none !important;
+}

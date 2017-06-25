@@ -44,7 +44,7 @@ class SitePost extends React.Component {
                     <hr></hr>
                     <p>
                         <br></br>
-                        <strong>{ config.siteAuthor }</strong>
+                        <strong className="signature">{ config.siteAuthor }</strong>
                     </p>
                   </div>
                 </div>

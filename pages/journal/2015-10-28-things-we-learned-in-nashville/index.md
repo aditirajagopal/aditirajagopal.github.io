@@ -30,33 +30,3 @@ Checkout some more highlights via our compiled Storify:
 
 <div class="storify"><iframe src="//storify.com/Aditi_Rajagopal/we15-nashville/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Aditi_Rajagopal/we15-nashville.js?header=false&border=false"></script><noscript>[<a href="//storify.com/Aditi_Rajagopal/we15-nashville" target="_blank">View the story "#we15 - Nashville TN" on Storify</a>]</noscript></div>
 =======
-
-<figure class="floatRight">
-	<img style="height: 310px;" src="./Gutenberg.jpg" alt="Gutenberg">
-	<figcaption>Johannes Gutenberg</figcaption>
-</figure>
-
-<figure class="floatLeft">
-	<img style="height: 310px;" src="./Printing-press.png" alt="Early Printing Press">
-	<figcaption>Early wooden printing press as depicted in 1568.</figcaption>
-</figure>
-
-
->All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.
-
-—Future pope Pius II in a letter to Cardinal Carvajal, March 1455
-
-***
-
-![Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5](./movable-type.jpg)
-
-*Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5*
-
-<figure>
-	<blockquote>
-		<p>It is a press, certainly, but a press from which shall flow in inexhaustible streams… Through it, god will spread his word.</p>
-		<footer>
-			<cite>—Johannes Gutenberg</cite>
-		</footer>
-	</blockquote>
-</figure>

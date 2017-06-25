@@ -59,7 +59,10 @@ $link-hover-decoration: none !default;
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
-$font-family-sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, YuGothic !default;
+@import url('https://fonts.googleapis.com/css?family=Arvo|Asap');
+
+$font-family-serif: 'Arvo';
+$font-family-sans-serif: 'Asap', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, YuGothic !default;
 
 $font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg:   1.25rem !default;
@@ -80,7 +83,7 @@ $font-size-h5: 1.05rem !default;
 $font-size-h6: 1rem !default;
 
 // $headings-margin-bottom: ($spacer / 2) !default;
-$headings-font-family:   inherit !default;
+$headings-font-family:   $font-family-serif;
 $headings-font-weight:   600 !default;
 $headings-line-height:   1.1 !default;
 $headings-color:         inherit !default;
@@ -162,6 +165,14 @@ code {
         margin-right: -15em; 
         margin-left: -15em;
     }
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #3F51B5 !important;
 }
 
 .aboutBlox, .aboutTop, .article-wrap {
@@ -281,7 +292,6 @@ ul.timeline {
   }
 }
 
-// .article-wrap {
-//     background: #fff;
-//     padding: 2em;
-// }
+.accordion-toggle {
+  text-decoration: none;
+}

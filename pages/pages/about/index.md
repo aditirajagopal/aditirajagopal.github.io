@@ -1,13 +1,10 @@
 ---
 id: 1380
 title: "Profile"
-date: 2016-05-15T17:48:12+00:00
-author: jaxx2104
+date: 2017-05-15T17:48:12+00:00
+author: Aditi Rajagopal
 layout: page
 path: "/about"
-
-guid: http://jaxx2104.info/?page_id=1380
-image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 ---
 
 
@@ -25,9 +22,9 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
           Artist
         </p>
         <div class="service-box">
-            <a href="https://github.com/jaxx2104"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
-            <a href="https://twitter.com/jaxx2104"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
-            <a href="http://jaxx2104.tumblr.com/"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
+            <a href="https://github.com/aditirajagopal" target="_blank"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
+            <a href="https://twitter.com/aditi_rajagopal" target="_blank"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
+            <a href="https://linkedin.com/in/aditirajagopal" target="_blank"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
         </div>
       </div>
     </div>
@@ -78,7 +75,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
               </div>
               <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="panel-body">
-                  Perhaps. I'm open to relocating for a job that I can really sink my teeth into, and for a team that will enable me to learn, and build on my existing skills. My professional interests include: front-end development, design, strategy, and brand management. If you can give me an opportunity to expand my horizons beyond the technical rhelm and into the business side of things, I'd be really interested. 
+                  Perhaps. I'm open to relocating for a job that I can really sink my teeth into, and for a team that will enable me to learn, and build on my existing skills. My professional interests include: front-end development, design, strategy, and brand management. If you can give me an opportunity to expand my horizons beyond the technical realm and into the business side of things, I'd be really interested. 
                 </div>
               </div>
             </div>
@@ -110,7 +107,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
                     <iframe src="https://giphy.com/embed/5gFn7lLJkzlbW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                     <figcaption>Thanks Aziz.</figcaption>
                   </figure>                  
-                  ...I'm from Michigan. I'm a U.S. Citizen, and will never need sponsorship etc. And if you are really interested, my parents immigrated to the U.S. from India in the late 80s. 
+                  ...I'm from Michigan. I'm a U.S. Citizen, and will never need sponsorship etc. And if you are really interested, my parents immigrated to the U.S. from India in the early 90s. 
                 </div>
               </div>
             </div>
@@ -152,7 +149,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
               </div>
               <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
                 <div class="panel-body">
-                  Mostly yes. My previous website used a Jekyll backend, but since I've been coding primarily in ReactJS at work, I wanted to experiement with a ReactJS based backend. This website uses a gatsby backend, and is forked from here. 
+                  Mostly yes. My previous website used a Jekyll backend, but since I've been coding primarily in ReactJS at work, I wanted to experiement with a ReactJS based backend. This website uses a gatsby backend, and is forked from <a href="https://github.com/jaxx2104/gatsby-starter-bootstrap">here.</a> #sorrynotsorry. 
                 </div>
               </div>
             </div>
@@ -191,74 +188,92 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">May 2017 <span class="glyphicon glyphicon-time"></span></div>
-              <h3>Survived my 3rd IBM reorg</h3>
-              <div class="description"><p>Description</p></div>
+              <h3>Survived my 4th IBM reorg</h3>
+              <div class="description"><p>I now work on the Container Service's UI squad</p></div>
+            </li>
+            <li class="event">
+              <div class="left-arrow"></div>
+              <div class="time">March 2017 <span class="glyphicon glyphicon-time"></span></div>
+              <h3>Gave 2 talks at the (final) SWE Region H Conference at University of Michigan</h3>
+              <div class="description"><p>I partnered with my work-bestie Susan to give a talk on <a href="https://docs.google.com/presentation/d/1WKniu1vFCbeqqyJHAdq3HFJvrZq3U60qUM2GmPqVlLI/edit?usp=sharing">Reverse Mentoring</a>, and I gave a talk on <a href="https://docs.google.com/presentation/d/1S9ZTyTdZMROPGSYIX-ICQZ5FeXt8MeQRcVQ6PBGcmgk/edit?usp=sharing">the latest trends in cloud computing (for beginners).</a></p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">Nov 2016 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Started working on UI stuff</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>Mainly creating an Ops dashboard (and setting up all the necessary automation frameworks) for the Container Service</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">Oct 2016 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Gave 2 talks at we16, and was the IBM sponsor speaker for Celebrate SWE</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>I partnered with my best friend Melanie to give a lightning talk on <a href="https://docs.google.com/presentation/d/1WKniu1vFCbeqqyJHAdq3HFJvrZq3U60qUM2GmPqVlLI/edit?usp=sharing">Shine Theory</a>, and I gave a talk on <a href="https://docs.google.com/presentation/d/1wnKOVtrMx_1hxqsMF5n6V9lBT-Kx2tD5SsnbJT57bTQ/edit?usp=sharing">contributing to Open Source projects (for beginners).</a> You can also checkout <a href="https://youtu.be/hYKU05C8uBs?t=12m8s" target="_blank">my keynote speech here</a>. </p></div>
+            </li>
+            <li class="event">
+              <div class="left-arrow"></div>
+              <div class="time">August 2016 <span class="glyphicon glyphicon-time"></span></div>
+              <h3>Survived my 3rd IBM reorg</h3>
+              <div class="description"><p>Our squad got scrapped, got moved to the DevOps squad. Still working on the IBM Container Service</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">May 2016 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Built the prototype for the current IBM Container Service</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>It got shelved. I did not handle this well. It got resurrected 6 months later, and we didn't get any credit for it. Oh well.</p></div>
+            </li>
+            <li class="event">
+              <div class="left-arrow"></div>
+              <div class="time">May 2016 <span class="glyphicon glyphicon-time"></span></div>
+              <h3>Selected for an IBM Photoshoot</h3>
+              <div class="description"><p>I was selected because my <a href="https://www.youtube.com/watch?v=VzYwLPrwOBQ" target="_blank">"IBM Tech Talent"</a> video was successful. I was one of the few <a href="http://www-03.ibm.com/employment/">Women in Tech</a> featured. Would love to go back to NYC</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">April 2016 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Survived my 2nd IBM Reorg</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>Started to work on the IBM Container Service on the 'next generation' squad.</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">March 2016 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Gave my first talk at the SWE Region H Conference</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>The room was packed, and I was really nervous. But the slides were super cute. Would consider revising and redoing this presentation.</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">April 2015 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Survived my 1st IBM Reorg</h3>
-              <div class="description"><p>They got rid of the product we were working on</p></div>
+              <div class="description"><p>They scrapped ICM, and transitioned my team to working on OpenStack upstream full-time</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">Aug 2014 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Started working at IBM</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>Started working as a Software Test Engineer on the "IBM Cloud Manager with OpenStack (ICM)" product</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">May 2014 <span class="glyphicon glyphicon-time"></span></div>
               <h3>SWE Overseas in India</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>Volunteered abroad for 2 weeks. We spend the previous semester planning a 1 week STEM camp for 5-8th graders in Walchandnagar, India. We also traveled around Northern India.</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">May 2014 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Graduated from University of Michigan</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p><i class="fa fa-check-square" aria-hidden="true"></i> Senior Design <i class="fa fa-check-square" aria-hidden="true"></i> Revamped the SWE section <i class="fa fa-check-square" aria-hidden="true"></i> Got a job</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">May-Aug 2013 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Internship at SAY Media</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>Worked on the Site Experience team, mostly in front-end development. My 'capstone' project was creating a recency and relevancy search algorithm.</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
               <div class="time">May-Aug 2012 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Internship at RePunch</h3>
-              <div class="description"><p>Description</p></div>
+              <div class="description"><p>Spent most of the summer teaching myself the basics of web development, graphic design, and mobile app development</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
@@ -276,7 +291,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
               <div class="left-arrow"></div>
               <div class="time">May-Aug 2011 <span class="glyphicon glyphicon-time"></span></div>
               <h3>Internship at Calsonic Kensai</h3>
-              <div class="description"><p>I worked on the Electronics team focused on testing.</p></div>
+              <div class="description"><p>I worked on the Electronics team focused on electronics testing. I broke a lot of things, did quite a bit of soldering, and dabbled in circuit design</p></div>
             </li>
             <li class="event">
               <div class="left-arrow"></div>
@@ -288,96 +303,9 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
               <div class="left-arrow"></div>
               <div class="time">Sept 2010 <i class="fa fa-pencil" aria-hidden="true"></i></div>
               <h3>Started undergrad at University of Michigan</h3>
-              <div class="description"><p>Started at the College of Engineering with the intent of majoring in Biomedical Engineering</p></div>
+              <div class="description"><p>Started at the College of Engineering with the intent of majoring in Biomedical Engineering. Joined the <a href="http://www.swe.engin.umich.edu/" target=>Society of Women Engineers student section</a></p></div>
             </li>
           </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-<section id="features" class="text-center">
-  <div class="container">
-    <div class="row aboutRow">
-      <div class="col-lg-12 aboutBlox">
-        <h2 class="section-heading">Media </h2>
-        <hr class="primary" />
-      <div class="col-lg-6">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/VzYwLPrwOBQ" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="col-lg-3">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/hYKU05C8uBs" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="col-lg-3">
-        <iframe src="https://docs.google.com/presentation/d/1S9ZTyTdZMROPGSYIX-ICQZ5FeXt8MeQRcVQ6PBGcmgk/embed?start=false&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="HTML">
-          <i class="fa-4x devicons devicons-html5 wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="JavaScript">
-          <i class="fa-4x devicons devicons-javascript_badge wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Node.js">
-          <i class="fa-4x devicons devicons-nodejs wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Gulp">
-          <i class="fa-4x devicons devicons-gulp wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="PHP">
-          <i class="fa-4x devicons devicons-php wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Perl">
-          <i class="fa-4x devicons devicons-perl wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Swift">
-          <i class="fa-4x devicons devicons-swift wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Titanium">
-          <i class="fa-4x devicons devicons-appcelerator wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="bg-danger text-center" id="concept">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2 class="section-heading">WORKS </h2>
-        <hr class="light" />
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
-        <p>image1</p>
-      </div>
-      <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
-        <p>image2</p>
       </div>
     </div>
   </div>

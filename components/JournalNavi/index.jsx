@@ -19,11 +19,11 @@ class JournalNavi extends React.Component {
               <li className={location.pathname === prefixLink('/about/') ? 'nav-item active' : 'nav-item'}>
                 <Link to={prefixLink('/about/')} className="nav-link">about</Link>
               </li>
-              <li className={location.pathname === prefixLink('/portfolio/') ? 'nav-item active' : 'nav-item'}>
-                <Link to={prefixLink('/portfolio/')} className="nav-link">portfolio</Link>
-              </li>
               <li className={location.pathname === prefixLink('/journal/') ? 'nav-item active' : 'nav-item'}>
                 <Link to={prefixLink('/journal/')} className="nav-link">journal</Link>
+              </li>
+              <li className={location.pathname === prefixLink('/portfolio/') ? 'nav-item active' : 'nav-item'}>
+                <Link to={prefixLink('/portfolio/')} className="nav-link">portfolio</Link>
               </li>
               <li className="twitter">
                 <a className="nav-link nav-item" href="https://twitter.com/aditi_rajagopal" target="_blank"><i className="fa fa-twitter-square" aria-hidden="true"></i></a>

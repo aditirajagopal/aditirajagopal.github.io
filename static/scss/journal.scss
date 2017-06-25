@@ -31,6 +31,19 @@
   }
 }
 
+@media (min-width: 160em) {
+  .content {
+    max-width: 111em;
+    margin-left: 44em;
+    margin-right: 2em;
+  }
+  .jheader {
+    max-width: 112rem;
+    margin-left: 43rem;
+    margin-right: 2rem;
+  }  
+}
+
 @media (max-width: 48em) {
   .content {
     padding-top: 0;
