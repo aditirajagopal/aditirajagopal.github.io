@@ -51,6 +51,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h4 class="panel-title">
@@ -65,6 +66,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
                 <h4 class="panel-title">
@@ -79,6 +81,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingFour">
                 <h4 class="panel-title">
@@ -93,6 +96,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingFive">
                 <h4 class="panel-title">
@@ -111,6 +115,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingSix">
                 <h4 class="panel-title">
@@ -125,6 +130,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingSeven">
                 <h4 class="panel-title">
@@ -139,6 +145,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingEight">
                 <h4 class="panel-title">
@@ -153,6 +160,7 @@ path: "/about"
                 </div>
               </div>
             </div>
+            <br/>
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingNine">
                 <h4 class="panel-title">

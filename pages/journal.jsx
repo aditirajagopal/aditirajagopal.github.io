@@ -76,7 +76,7 @@ class SiteIndex extends React.Component {
     return (
       <DocumentTitle title={ config.siteTitle }>
         <div className='content jcontainer'>
-          <SideBar title="Journal"/>
+          <SideBar title="Journal" description="Lists, plot-twists, ideas, updates, and maybe the beginnings of a novel. All by yours truly @aditi_rajagopal"/>
           <div>
             { pageLinks }
           </div>

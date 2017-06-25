@@ -28,15 +28,6 @@ module.exports = React.createClass({
                 <meta charSet="utf-8" />
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=5.0" />
-                // <meta name="twitter:title" content="{{ page.title }}">
-                // <meta name="twitter:creator" content="@aditi_rajagopal">
-                // <meta name="twitter:card" content="summary_large_image">
-                // <meta name="description" content="Aditi Rajagopal Website | {{ page.description }}">
-                // <meta name="twitter:description" content="{{ page.description }} | by Aditi Rajagopal">
-                // <meta name="twitter:image" content={ favicon }>
-                // <meta property="og:url" content="{{ site.url }}{{ page.permalink }}" />
-                // <meta property="og:title" content="{{ page.title }}" />
-                // <meta property="og:image" content="{{ site.url }}/images/social-cover.png" />
                 <title>
                   Aditi Rajagopal | Engineer, Artist, Troublemaker
                 </title>

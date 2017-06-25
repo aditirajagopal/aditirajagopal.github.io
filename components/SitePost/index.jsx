@@ -28,7 +28,7 @@ class SitePost extends React.Component {
         }
         return (
             <div className='content jcontainer'>
-              <SideBar title={post.title}/>
+              <SideBar title={post.title} description={post.description}/>
               <div>
                 <div className='article-wrap'>
                   <div className="page-header">
@@ -43,8 +43,8 @@ class SitePost extends React.Component {
                     <ReadNext post={ post } {...this.props}/>
                     <hr></hr>
                     <p>
-                        <br></br>
                         <strong className="signature">{ config.siteAuthor }</strong>
+                        <br></br>
                     </p>
                   </div>
                 </div>
